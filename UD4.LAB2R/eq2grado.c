@@ -1,4 +1,4 @@
-/* UD4.LAB2R.c */
+/* UD4.LAB2R - eq2grado.c */
 #include <stdio.h>
 #include <math.h>
 
@@ -20,9 +20,8 @@ aggiungere fra gli "args" la voce "-lm"
 */
 
 
-
 void main(){
-    printf("UD4.LAB2R\n");
+    printf("UD4.LAB2R - equazione di secondo grado\n");
 
     printf("Risoluzione di un'equazione di secondo grado\n");
 
