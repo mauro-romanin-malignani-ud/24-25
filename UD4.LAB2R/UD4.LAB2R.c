@@ -24,6 +24,8 @@ aggiungere fra gli "args" la voce "-lm"
 void main(){
     printf("UD4.LAB2R\n");
 
+    printf("Risoluzione di un'equazione di secondo grado\n");
+
     float a = 4;
     float b = sqrt(a);
 
