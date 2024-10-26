@@ -9,18 +9,14 @@
 /* Dichiarazioni dei prototipi delle funzioni */
 void stampa_array();
 
-
 /* Dichiarazione variabili globali */
 int dati[MAX_DATI] = {0, 1, 2, 8, 4, 5, 6, 7, 3, 9};
 
-
+/* PROGRAMMA PRINCIPALE*/
 void main(){
     stampa_array();
     printf("\n\nProgramma Terminato");
 }
-
-
-
 
 /* Implementazione delle funzioni */
 void stampa_array(){
